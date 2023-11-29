@@ -6,7 +6,7 @@
 <hr>
 <p>유저의, 유저에 의한, 유저를 위한 게임을 함께 만드는 것이 저의 바람입니다.</p>
 <p>언제나 <b>효율적인 코드</b>를 짜려고 노력합니다.</p>
-<p>🎀상세 포트폴리오 링크 !! http://ggm.gondr.net/user/profile/38 🎀</p>
+<p>🎀상세 포트폴리오 링크 !! http://ggm.gondr.net/user/profile/67 🎀</p>
 <hr>
 	<p>✨ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 ✨</p>
 	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
